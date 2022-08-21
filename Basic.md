@@ -3,7 +3,7 @@
 #### Supervised Learning
 <pre>
 Input - Output Mapping (x,y)
-- Regressions: Plot fitting curve / linear (Infinite predictions4)
+- Regressions: Plot fitting Polynomial / linear (Infinite predictions4)
 - Classification : Ex. Breast cancer detection (0/1)
 </pre>
 
